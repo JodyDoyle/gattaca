@@ -211,6 +211,9 @@ char randomChar()
   			
   		case 3:
   			return 'c';
+  			
+  		default:
+  			return 'g';
 	}
 }
 
